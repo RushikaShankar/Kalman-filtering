@@ -21,3 +21,6 @@ In GPS or INS (Inertial Navigation Systems), Kalman filtering is used to combine
 ## Robotics: 
 In robot localization, the Kalman filter is used to estimate the position and velocity of a robot based on noisy sensor data.
 Signal Processing: The Kalman filter is used to remove noise from a signal, such as in speech recognition or financial time series forecasting.
+
+## Acknowledment
+https://github.com/Victor-Ikechukwu Thank you for your invaluable insights, feedback, and continuous support throughout the development of this project
